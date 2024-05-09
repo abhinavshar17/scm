@@ -13,6 +13,6 @@ int main() {
     int n;
     printf("Enter a positive integer: ");
     scanf("%d", &n);
-    printf("Sum of digits of %d is %d\n", n, sumOfDigits(n));
+    printf("Sum  of %d is %d\n", n, sumOfDigits(n));
     return 0;
 }
